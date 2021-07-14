@@ -31,3 +31,9 @@ git remote add origin https://github.com/LILYHUANGPURSUIT/placeToPutReadme.git
 
 git push -u origin main
 ```?
+
+'''
+(Delete the repo in local machine/my computer)
+git clone (put the website of Repo on GitHub)
+it will download the same repo into local machine
+'''
