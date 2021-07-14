@@ -8,9 +8,10 @@ July 14, 2021
 `cd nameOfFlolder`
 - Create local Repository
 `git init`
-- Create code
+- Create code (files or folders)
 `touch readme.md`   
 // Creating a new file called readme.md
+- REMEMBER TO SAVE YOUR CODE!!!
 - Track/Stage/Watch all of the files/folder
 ```
 git add .
