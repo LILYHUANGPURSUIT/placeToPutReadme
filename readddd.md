@@ -25,4 +25,9 @@ git add -A
 - Create a Github repo
 ```
 create a new repo on Github
+
+git remote add origin https://github.com/LILYHUANGPURSUIT/placeToPutReadme.git 
+// the specific repository in GitHub
+
+git push -u origin main
 ```?
